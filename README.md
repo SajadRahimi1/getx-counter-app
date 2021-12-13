@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=https://www.section.io/engineering-education/flutter-getx-ecosystem-for-state-management/hero.png />
+  <img src=https://github.com/SajadRahimi1/getx-counter-app/raw/main/getx_image.png />
 </p>
 
 # 🥇 The easiest way to use get (getx) package for manage state
